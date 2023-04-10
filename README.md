@@ -2,7 +2,7 @@
 Scrivere un programma che comprenda:
 1. Un `main` che:
     * Definisce un array chiamato `array1` costituito da 10 interi (1, 2, …, 10).
-    * Chiama una procedura `PrintArray` che stampa a video `array1` partendo dall'ultimo elemento fino al primo elemento (ogni elemento dovrà essere scritto su una riga seguito da ";"). La procedure riceve in input l'indirizzo del primo elemento dell'array e la dimensione dell'array.
+    * Chiama una procedura `PrintArray` che stampa a video `array1` partendo dall'ultimo elemento fino al primo elemento (ogni elemento dovrà essere scritto su una riga seguito da ";"). La procedura riceve in input l'indirizzo del primo elemento dell'array e la dimensione dell'array.
     * Chiama una procedura `BuildArray` che costruisce un nuovo array `array2` partendo da un array ricevuto in input.
     * Stampa a video `array2` costruito precedentemente.
 2. La procedura `BuildArray` che:
